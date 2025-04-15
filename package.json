@@ -1,5 +1,5 @@
 {
     "dependencies": {
-        "lodash": "4.17.1"
+        "type-fest": "4.36.0"
     }
 }

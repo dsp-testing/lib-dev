@@ -1,5 +1,7 @@
 {
     "dependencies": {
-        "type-fest": "4.36.0"
+        "type-fest": "4.36.0",
+        "@aws-sdk/client-s3": "3.758.0",
+        "@aws-sdk/client-kms": "3.758.0"
     }
 }

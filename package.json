@@ -1,5 +1,6 @@
 {
     "dependencies": {
-        "type-fest": "4.36.0"
+        "type-fest": "4.36.0",
+        "throw-expression": "2.1.0"
     }
 }

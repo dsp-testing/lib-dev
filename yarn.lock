@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-type-fest@4.36.0:
-  version "4.36.0"
-  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-4.36.0.tgz#e656de02aa880aa01b4d3a71188bb6adb18668a2"
-  integrity sha512-3T/PUdKTCnkUmhQU6FFJEHsLwadsRegktX3TNHk+2JJB9HlA8gp1/VXblXVDI93kSnXF2rdPx0GMbHtJIV2LPg==
+throw-expression@2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/throw-expression/-/throw-expression-2.1.0.tgz#3f90b089181e9359c6fb868d913457bc816160bd"
+  integrity sha512-ZVP9rT4wC596AkWEyYprufvUV+ppfz0xK7H9Ka3WeTKufn5pnfESxicIDnaJyf88pGHaIx2GkwNC4Qjh0OdEwA==
